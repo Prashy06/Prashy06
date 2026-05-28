@@ -131,10 +131,12 @@ and low-density regions.
 ## Bachelor of Engineering in Electronics and Communication Engineering
 🏛 **SRM Easwari Engineering College**  
 *(Affiliated to Anna University, Chennai)*  
+CGPA : 8.03 
 📅 2024 – 2028  
 
 ## Class XII — PCM Stream (ICSE)
 🏫 **Ryan International School, Surat, Gujarat**  
+CGPA 8.25
 📅 2023 – 2024  
 
 ---
