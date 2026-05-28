@@ -18,19 +18,19 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://icons8.com/icon/X54sJDVZjd5c/electronics" width="50" height="50"/>
+      <img src="https://img.icons8.com/?size=100&id=106755&format=png&color=000000" width="50" height="50"/>
       <sub>FPGA & Digital Design</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/developer.png" width="50" height="50"/>
+      <img src="https://img.icons8.com/?size=100&id=oaoTa6nA7qv3&format=png&color=000000" width="50" height="50"/>
       <sub>Embedded Systems & IoT</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/handshake.png" width="50" height="50"/>
+      <img src="https://img.icons8.com/?size=100&id=tKsXm4DwwFF1&format=png&color=000000" width="50" height="50"/>
       <sub>Hardware–Software Integration</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/stack.png" width="50" height="50"/>
+      <img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" width="50" height="50"/>
       <sub>Embedded Development & Programming</sub>
     </td>
   </tr>
@@ -39,50 +39,68 @@
 
 ---
 
-## 🏆 Hackathons
- 
-- **SIH 2025 | TrackSure** · *Travel & Tourism · PS #25082 · Team of 6* · Mobile-first travel behavior tracking app built on ASP.NET Razor Pages and SQL. Combines passive GPS location data with active user trip inputs to generate real-world mobility insights beyond what standard navigation apps provide.
- 
-- **Smart AI India Hackathon | SatarkNetra.AI** · *Cybersecurity · Team of 3* · AI-powered personal anti-scam assistant for WhatsApp, Telegram, and SMS. Auto-captures suspicious conversations with user consent, detects fraud patterns in real time, and generates time-wasting replies — protecting users while building evidence for law enforcement.
- 
-- **AcadFlip | Flow Fund** · *FinTech · MSME · Team of 4* · Flutter-based unified financial discovery platform addressing India's ₹30 lakh crore MSME credit gap. Matches small businesses with government schemes (PMEGP, MUDRA), bank loans across 50+ banks, and local programs via a progressive disclosure UI and pre-filled PDF application generation.
- 
-- **KSR College GDG S3 | Udyog Setu — Hack With GDG S3** · *B2B Investment · Team of 3* · LinkedIn-style B2B investment marketplace for India's 6 crore+ MSMEs. Business profiles pull from public MCA and GST data; AI-powered smart discovery matches MSMEs with compatible investors and partners. Freemium model with transaction-based revenue.
- 
-- **Texus NXTGEN Hackathon (SRM Ramapuram IST) | SportUp** · *Athletech · Team of 4* · Centralized web platform for grassroots sports community management. Admins create sport communities, manage match schedules, and publish live leaderboards. Built on .NET Razor Pages and C# within a 24-hour limit; targets amateur athletes and local coaches with a freemium B2B2C model.
- 
-- **Nellai Hackathon | MatriSetu** · *Maternal & Child Health · StartupTN × GDG · Team of 4* · React Native app for ASHA health workers to digitally track maternal records, vaccination schedules, nutrition stock, and contraceptive inventory. Mothers receive QR-based identity cards; works offline and syncs on reconnection. Supports Tamil, English, and Hindi.
- 
-- **DevHub 1.0 Hackathon (VIT Chennai) | Code Crackers** · *Interior Design · Team of 2* · Web-based 3D room visualization tool — "Canva for interior design." Users upload a room photo; the platform converts it to an interactive 3D model for drag-and-drop furniture placement. Built on React with a Drogon (C++) backend and WebAssembly 3D rendering. Revenue via affiliate e-commerce and B2B API licensing.
- 
-- **DevsHouse Hackathon (GDG VIT Chennai) | ChargeKaro** · *CleanTech · Open Innovation · Team of 3* · Peer-to-peer EV charging marketplace connecting households with surplus subsidized electricity to nearby EV drivers. IoT smart adapters track session data; hosts set dynamic pricing; payments via an Uber-style automated system. Built on React Native, .NET Razor Pages, ASP.NET Core, and Supabase.
+## 🏆 Honours & Awards
 
+**Global Winner Team Photonics Odyssey in NASA International Space Apps Competition 25'**
+- Designed the conceptual LEO satellite network architecture named AakashNet, a sovereign Low
+Earth Orbit broadband constellation using Ku/Ka-band communication with laser-based intersatellite links to enable low-latency mesh routing and continuous orbital data relay across remote
+and low-density regions.
+ 
+**Best Innovator Award by SSN College of Engineering**
+- We worked on a challenge focused on improving solar energy capture. Our solution involved a smart system to optimize solar panel efficiency combining simulation in MATLAB, hardware, and IoT-based monitoring
+ 
+**Best Implementation Award by SRM University**
+- Implemented PQC as the primary encryption mechanism for secure key exchange and communication, developed as a hardware IP core using AMD Vitis, Vivado
+ 
+**Winner in EUREKA Startup Pitch by E-Cell, IIT Bombay**
+- RentMyRoof solves this by allowing property owners to lease their rooftops to solar companies, who install and maintain photovoltaic systems and generate electricity. In return, the rooftop owner receives regular rental income or discounted electricity, while the generated power can be sold to the grid or nearby consumers.
 ---
 
-## 💻 Tech Arsenal
+## 💻 Technical Skills
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## FPGA & Digital Design
+![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logoColor=white)
+![HLS](https://img.shields.io/badge/HLS-007ACC?style=for-the-badge)
+![AMD Vivado](https://img.shields.io/badge/AMD%20Vivado-E01F27?style=for-the-badge&logo=amd&logoColor=white)
+![AMD Vitis](https://img.shields.io/badge/AMD%20Vitis-D71920?style=for-the-badge&logo=amd&logoColor=white)
+![HW/SW Co-Design](https://img.shields.io/badge/HW%2FSW%20Co--Design-6A1B9A?style=for-the-badge)
+![FPGA IP Integration](https://img.shields.io/badge/FPGA%20IP%20Integration-1565C0?style=for-the-badge)
 
-### Backend & Database
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+---
 
-### Mobile & Cloud
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+## Embedded Systems & Linux
+![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ARM Cortex-A](https://img.shields.io/badge/ARM%20Cortex--A-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Linux Drivers](https://img.shields.io/badge/Linux%20Device%20Drivers-333333?style=for-the-badge&logo=linux&logoColor=white)
 
+---
+
+## Edge AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Tiny-YOLO](https://img.shields.io/badge/Tiny--YOLO-5E35B1?style=for-the-badge)
+![CNN Models](https://img.shields.io/badge/CNN%20Models-8E24AA?style=for-the-badge)
+![Edge AI Deployment](https://img.shields.io/badge/Edge%20AI%20Deployment-00C853?style=for-the-badge)
+![Model Optimization](https://img.shields.io/badge/Model%20Optimization-FF4081?style=for-the-badge)
+
+---
+
+## Tools & Development Environments
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-basic-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-basic-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash%2FShell-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 </div>
 
 ---
