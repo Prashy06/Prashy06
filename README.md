@@ -8,7 +8,8 @@
 
 [![Email](https://img.shields.io/badge/Email-prasanth4306%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasanth4306@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanth-gopalakrishnan-27995a302/)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://superposition-one.vercel.app/)
+[![Linktree](https://img.shields.io/badge/Linktree-praashy-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/praashy)
 </div>
 
 ---
