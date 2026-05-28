@@ -104,124 +104,47 @@ and low-density regions.
 </div>
 
 ---
+# 🏆 Positions of Responsibility
+</p>
 
-## 🎨 Featured Projects
+- 🔬 **Research Intern** — Directorate of Research, SRM Group of Institutions  
+- 💡 **Secretary** — E-Cell, SRM Group of Institutions  
+- 🛰 **Director of Electronics** — Odyssey Space Club, EEC
 
-### 🖥️ Web Development
+---
+# 🎓 Certifications
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏢 Enterprise ERP System</h3>
-      <br>
-      <p align="center">
-        <a href="wwwroot/ERP-1.png" target="_blank">
-          <img src="https://github.com/CosmicCosmix/CosmicCosmix/blob/main/wwwroot/ERP-1.png?raw=true" width="100%" alt="ERP System"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      </p>
-      <p align="center">
-        Full-featured Enterprise Resource Planning system with inventory management, HR modules, and real-time analytics.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Interactive Web Portal</h3>
-      <br>
-      <p align="center">
-        <a href="wwwroot/home-page.png" target="_blank">
-          <img src="https://github.com/CosmicCosmix/CosmicCosmix/blob/main/wwwroot/home-page.png?raw=true" width="100%" alt="Web Portal"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-      <p align="center">
-        Modern full-stack web portal with responsive design, REST API integration, and user authentication.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">📊 Data Analytics Dashboard</h3>
-      <br>
-      <p align="center">
-        <a href="wwwroot/ERP-2.png" target="_blank">
-          <img src="https://github.com/CosmicCosmix/CosmicCosmix/blob/main/wwwroot/ERP-2.png?raw=true" width="60%" alt="Analytics Dashboard"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
-      </p>
-      <p align="center">
-        Real-time business intelligence dashboard with interactive charts, KPI tracking, and custom reporting.
-      </p>
-    </td>
-  </tr>
-</table>
+</p>
 
-### 📱 Mobile Development
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">✈️ TrackSure — SIH 2025</h3>
-      <br>
-      <p align="center">
-        <img src="https://via.placeholder.com/300x500/0D1117/58A6FF?text=TrackSure+App" width="60%" alt="TrackSure App Screenshot"/>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-      </p>
-      <p align="center">
-        A mobile-first travel tracking app built for Smart India Hackathon 2025 (PS #25082). Records real travel behavior by combining GPS location data, trip purpose inputs, and Google Maps insights. Goes beyond navigation — converts passive movement data into actionable urban mobility insights for planners and researchers.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ SatarkNetra.AI — Anti-Scam Assistant</h3>
-      <br>
-      <p align="center">
-        <img src="https://via.placeholder.com/300x500/0D1117/58A6FF?text=SatarkNetra+App" width="60%" alt="SatarkNetra App Screenshot"/>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AI_Powered-FF6F00?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-      </p>
-      <p align="center">
-        Your personal anti-scam assistant. Auto-captures suspicious conversations on WhatsApp, Telegram & SMS with user permission. Uses AI to detect fraud patterns in real time and generates believable, time-wasting replies — keeping scammers busy and protecting vulnerable users. Evidence is logged to assist law enforcement.
-      </p>
-    </td>
-  </tr>
-</table>
+- 📘 **CS50** — Harvard University  
+- ⚡ **Fundamentals of Semiconductor Devices** — Indian Institute of Science (IISc), Bangalore  
+- 🚀 **Entrepreneurship** — Indian Institute of Technology, Madras  
+- 🔧 **Digital Systems Design using FPGAs** — National Institute of Technology, Calicut  
 
 ---
 
-## 📊 GitHub Analytics
+# 🎓 Education
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CosmicCosmix&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak"/>
-</div>
+</p>
+
+## Bachelor of Engineering in Electronics and Communication Engineering
+🏛 **SRM Easwari Engineering College**  
+*(Affiliated to Anna University, Chennai)*  
+📅 2024 – 2028  
+
+## Class XII — PCM Stream (ICSE)
+🏫 **Ryan International School, Surat, Gujarat**  
+📅 2023 – 2024  
 
 ---
 
-<div align="center">
+# 🌍 Languages
+</p>
 
-### 💭 *"Building ERPs, one commit at a time..."*
+| Language | Proficiency |
+|----------|-------------|
+| 🇬🇧 English | Full Professional Proficiency |
+| 🇮🇳 Hindi | Bilingual Proficiency |
+| 🇮🇳 Tamil | Native Proficiency |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
+--- 
