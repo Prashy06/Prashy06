@@ -13,29 +13,25 @@
 
 ---
 
-## 🎯 Quick Stats
+## 🎯 Domains of Working
 <div align="center" width="100%">
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/rocket.png" width="50" height="50"/><br>
-      <strong>Current Focus</strong><br>
-      <sub>Innovation Cell's ERP</sub>
+      <img src="https://icons8.com/icon/X54sJDVZjd5c/electronics" width="50" height="50"/>
+      <sub>FPGA & Digital Design</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/developer.png" width="50" height="50"/><br>
-      <strong>Role</strong><br>
-      <sub>Full Stack Developer</sub>
+      <img src="https://img.icons8.com/color/96/000000/developer.png" width="50" height="50"/>
+      <sub>Embedded Systems & IoT</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/handshake.png" width="50" height="50"/><br>
-      <strong>Looking For</strong><br>
-      <sub>Hackathons & Startups</sub>
+      <img src="https://img.icons8.com/color/96/000000/handshake.png" width="50" height="50"/>
+      <sub>Hardware–Software Integration</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/stack.png" width="50" height="50"/><br>
-      <strong>Primary Stack</strong><br>
-      <sub>.NET · Bootstrap · SQL</sub>
+      <img src="https://img.icons8.com/color/96/000000/stack.png" width="50" height="50"/>
+      <sub>Embedded Development & Programming</sub>
     </td>
   </tr>
 </table>
