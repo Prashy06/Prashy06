@@ -39,23 +39,6 @@
 
 ---
 
-## 🏆 Honours & Awards
-
-**Global Winner Team Photonics Odyssey in NASA International Space Apps Competition 25'**
-- Designed the conceptual LEO satellite network architecture named AakashNet, a sovereign Low
-Earth Orbit broadband constellation using Ku/Ka-band communication with laser-based intersatellite links to enable low-latency mesh routing and continuous orbital data relay across remote
-and low-density regions.
- 
-**Best Innovator Award by SSN College of Engineering**
-- We worked on a challenge focused on improving solar energy capture. Our solution involved a smart system to optimize solar panel efficiency combining simulation in MATLAB, hardware, and IoT-based monitoring
- 
-**Best Implementation Award by SRM University**
-- Implemented PQC as the primary encryption mechanism for secure key exchange and communication, developed as a hardware IP core using AMD Vitis, Vivado
- 
-**Winner in EUREKA Startup Pitch by E-Cell, IIT Bombay**
-- RentMyRoof solves this by allowing property owners to lease their rooftops to solar companies, who install and maintain photovoltaic systems and generate electricity. In return, the rooftop owner receives regular rental income or discounted electricity, while the generated power can be sold to the grid or nearby consumers.
----
-
 ## 💻 Technical Skills
 
 <div align="center">
